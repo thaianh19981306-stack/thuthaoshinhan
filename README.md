@@ -1,4 +1,4 @@
-# Website Thảo Shinhan
+# Website Thu Thảo Shinhan
 
 Website tĩnh dùng cho GitHub Pages.
 
