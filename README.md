@@ -1,14 +1,21 @@
-# Website Thu Thảo Shinhan
+# Thảo Shinhan V2
 
-Website tĩnh dùng cho GitHub Pages.
+Website nâng cấp có:
+- Hero full màn hình
+- Loading screen
+- Animation khi cuộn
+- Hiệu ứng số chạy
+- Card nổi
+- Timeline
+- Tin tức
+- Floating Zalo
+- Floating Call
+- Responsive điện thoại
 
-## Cách đăng
-1. Upload toàn bộ file trong thư mục này lên repository GitHub.
-2. Vào Settings → Pages.
-3. Chọn Deploy from a branch.
-4. Chọn branch `main`, thư mục `/ (root)`.
-5. Bấm Save.
+## Upload lên GitHub
+Xóa hoặc ghi đè 3 file cũ:
+- index.html
+- style.css
+- script.js
 
-## Thông tin liên hệ đang dùng
-- Điện thoại: 0329722628
-- Zalo: https://zalo.me/0329722628
+Sau đó upload 3 file mới này và Commit changes.
